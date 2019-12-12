@@ -1,0 +1,117 @@
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmGhiDanh.resources
+C:\Users\Thanh\Desktop\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmWinnerList.resources
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmGhiDanh.resources
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmWinnerList.resources
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+D:\1. C#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.Cache
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.Cache
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+D:\hocc#\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\hades\Downloads\Ghep  hinh\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Thien Be\Downloads\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Form1.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmGhiDanh.resources
+C:\Users\Administrator\Desktop\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmWinnerList.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmGhiDanh.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmWinnerList.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+D:\GhepHinh (1)\GhepHinh (1)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmGhiDanh.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmWinnerList.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+C:\Users\Administrator\Desktop\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.Cache
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe.config
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.exe
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\bin\Debug\GhepHinh.pdb
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmGhiDanh.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmMain.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmSetting.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.FrmWinnerList.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Guide.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.Win.resources
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.exe
+E:\Lập Trình Hướng Đối Tượng\GhepHinh (2)\GhepHinh\GhepHinh\obj\Debug\GhepHinh.pdb
